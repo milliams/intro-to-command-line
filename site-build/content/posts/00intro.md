@@ -36,7 +36,7 @@ If you are using MacOS or Linux, you will have *Terminal* already installed - op
 When you open a terminal, you will be provided with a line for entering commands, starting with a *prompt*. The prompt tells you where, in your computer you are. When on the command line, you always have a location, just like you do in graphical file managers like MacOS's "Finder", or Windows' "Explorer". Here is what a typical prompt looks like:
 
 ```
-[alleetanner@work_laptop:/Users/at9362] $
+[mw16387@work_laptop:/home/mw16387] $
 ```
 
 Your prompt will look different, but here is what it means
